@@ -1,7 +1,7 @@
 # OS-Kernel-Concepts-VSFS-Checker-and-UNIX-Shell-Implementation
 CSE321 Operating Systems Projects This repository contains two core projects developed for the CSE321 course, focusing on operating systems principles, system calls and file system integrity.
 
-Project 1 Simple UNIX Shell A custom UNIX shell implemented in C that mimics basic terminal functionality and manages process lifecycles.
+PROJECT-1: Simple UNIX Shell A custom UNIX shell implemented in C that mimics basic terminal functionality and manages process lifecycles.
 
 Key features:
 
@@ -17,7 +17,7 @@ Key features:
 
 6.Signal Handling: Uses sigaction to intercept CTRL+C signals, ensuring currently running commands terminate without crashing the shell.
 
-Project 2 VSFS Consistency Checker A file system consistency checker (vsfsck) designed to verify and repair a Very Simple File System image. 
+PROJECT-2: VSFS Consistency Checker A file system consistency checker (vsfsck) designed to verify and repair a Very Simple File System image. 
 
 Key features:
 
